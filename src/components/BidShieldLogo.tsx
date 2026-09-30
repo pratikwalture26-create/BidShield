@@ -22,7 +22,7 @@ export const BidShieldLogo: React.FC<BidShieldLogoProps> = ({
     <div className={`relative flex items-center justify-center shrink-0 ${sizeClasses[size]} ${className}`}>
       {!imageError ? (
         <img
-          src="/src/assets/images/bidshield_logo_1790755913762.jpg"
+          src="/bidshield-logo.jpg"
           alt="BidShield Symbol"
           referrerPolicy="no-referrer"
           onError={() => setImageError(true)}
