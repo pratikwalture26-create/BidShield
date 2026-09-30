@@ -1,0 +1,6 @@
+{
+  "name": "BidShield - GeM Bid Compliance Verification",
+  "description": "AI-Powered Integrated Bid Compliance Verification Platform for GeM Procurement (PS 26100)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
