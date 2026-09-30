@@ -1,7 +1,7 @@
 # BidShield 🛡️
 
 <p align="center">
-  <img src="assets/bidshield-logo.png" alt="BidShield Logo" width="220"/>
+  <img src="bidshield-logo.png" alt="BidShield Logo" width="220"/>
 </p>
 
 <h3 align="center">AI-Powered Integrated Bid Compliance Verification Platform for GeM Procurement</h3>
